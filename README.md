@@ -1,2 +1,2 @@
-# automining
+# baikin
 rune slayer macro
