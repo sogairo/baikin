@@ -1,0 +1,2 @@
+# automining
+rune slayer macro
